@@ -4,3 +4,4 @@ Line2: added.
 The changes will be added and then commited.
 
 Now I am editing this file by Pycharm.
+a new line added for final project.
