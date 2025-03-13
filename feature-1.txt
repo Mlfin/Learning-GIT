@@ -1,3 +1,4 @@
 line 1 of feature 1
 line 2 of feature 1
 line 3 has been added for final project.
+line 4 needs to be check the merge.
