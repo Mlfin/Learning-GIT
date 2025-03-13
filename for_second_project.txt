@@ -1,4 +1,0 @@
-line1 This file is for the second project.
-This file has been created first.
-It will be modified later.
-Now this is going to be modified.
