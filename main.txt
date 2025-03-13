@@ -2,7 +2,7 @@ Line1 This is the main file, but not still not used.
 I am learning how to work with git.
 Line2: added.
 The changes will be added and then commited.
-
+This line is not empty anymore.
 Now I am editing this file by Pycharm.
 new line: a new line added for final project. 
 
