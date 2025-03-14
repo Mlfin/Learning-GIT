@@ -7,3 +7,4 @@ Now I am editing this file by Pycharm.
 new line: a new line added for final project. 
 new line for cherry oick
 Check conflict from feature-5
+- new line for final project.
